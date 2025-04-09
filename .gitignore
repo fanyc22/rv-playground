@@ -10,3 +10,4 @@
 # monorepo directories
 !/nemu/*
 !/am-kernels/*
+!/abstract-machine/*
