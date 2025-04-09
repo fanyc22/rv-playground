@@ -4,3 +4,6 @@
 [submodule "am-kernels"]
 	path = am-kernels
 	url = https://github.com/fanyc22/am-kernels.git
+[submodule "abstract-machine"]
+	path = abstract-machine
+	url = https://github.com/fanyc22/abstract-machine.git
