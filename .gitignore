@@ -7,5 +7,5 @@
 !README.md
 !.gitignore
 
-# Ignore monorepo directories
-nemu
+# monorepo directories
+!/nemu/*
