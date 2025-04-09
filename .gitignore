@@ -3,13 +3,13 @@
 .DS_Store
 .vscode
 !*/
-# use !/path/* to keep the directory
-!/mirror-lake-sc/*
+# use !path/* to keep the directory
+!mirror-lake-sc/*
 !Makefile
 !README.md
 !.gitignore
 
 # monorepo directories
-!/nemu/*
-!/am-kernels/*
-!/abstract-machine/*
+!nemu/*
+!am-kernels/*
+!abstract-machine/*
