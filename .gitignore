@@ -5,7 +5,7 @@
 out
 !*/
 # use !path/* to keep the directory
-# !mirror-lake-sc/*
+!mirror-lake-sc/*
 !Makefile
 !README.md
 !.gitignore
