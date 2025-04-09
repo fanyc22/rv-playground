@@ -1,3 +1,6 @@
 [submodule "nemu"]
 	path = nemu
 	url = https://github.com/fanyc22/nemu
+[submodule "am-kernels"]
+	path = am-kernels
+	url = https://github.com/fanyc22/am-kernels.git
