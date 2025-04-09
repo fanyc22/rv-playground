@@ -1,62 +1,10 @@
-# Copy from https://github.com/github/gitignore/blob/main/Global/macOS.gitignore
-# General
+*.*
+*
 .DS_Store
-.AppleDouble
-.LSOverride
+!*/
+# use !/path/* to keep the directory
+!Makefile
+!README.md
+!.gitignore
 
-# Icon must end with two \r
-Icon
-
-# Thumbnails
-._*
-
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-.com.apple.timemachine.donotpresent
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
-
-# copy from https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
-
-# Local History for Visual Studio Code
-.history/
-
-# Built Visual Studio Code Extensions
-*.vsix
-
-# copy from https://github.com/github/gitignore/blob/main/Global/Metals.gitignore
-# Generated Metals (Scala Language Server) files
-# Reference: https://scalameta.org/metals/
-.metals/
-.bloop/
-project/metals.sbt
-
-# copy from https://github.com/github/gitignore/blob/main/Global/SBT.gitignore
-# Simple Build Tool
-# http://www.scala-sbt.org/release/docs/Getting-Started/Directories.html#configuring-version-control
-
-dist/*
-target/
-lib_managed/
-src_managed/
-project/boot/
-project/plugins/project/
-.history
-.cache
-.lib/
+# Ignore monorepo directories
