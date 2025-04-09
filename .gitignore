@@ -4,6 +4,7 @@
 .vscode
 !*/
 # use !/path/* to keep the directory
+!/mirror-lake-sc/*
 !Makefile
 !README.md
 !.gitignore
