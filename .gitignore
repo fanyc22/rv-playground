@@ -2,6 +2,7 @@
 *
 .DS_Store
 .vscode
+out
 !*/
 # use !path/* to keep the directory
 !mirror-lake-sc/*
