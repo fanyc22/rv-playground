@@ -8,5 +8,4 @@
 !.gitignore
 
 # monorepo directories
-!/nemu/
 !/nemu/*
