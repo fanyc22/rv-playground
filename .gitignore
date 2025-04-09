@@ -1,6 +1,7 @@
 *.*
 *
 .DS_Store
+.vscode
 !*/
 # use !/path/* to keep the directory
 !Makefile
